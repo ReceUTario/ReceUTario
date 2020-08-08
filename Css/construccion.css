@@ -1,0 +1,38 @@
+body{
+    background-image: url(../Img/construccionfondo.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+*{
+    font-family: Helvetica;
+}
+html{
+    min-height:100%;
+    position: relative;
+}
+
+footer
+{
+    font-family: verdana;
+    font-size: 14px;
+    color:white;
+    position: absolute;
+    text-decoration: none;
+    background-color:#333;
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    width: 100%;
+    bottom: 0;
+    margin-top: 10px;
+      
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    flex-direction: column;
+    font-family: Helvetica;
+    font-size: 17px;
+}
