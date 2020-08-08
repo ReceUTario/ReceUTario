@@ -1,0 +1,123 @@
+
+.clas1{
+    float: left;
+    width: 45%;
+    
+}
+.clas2{
+    float: right;
+    width: 45%;
+    
+}
+html{
+    min-height:100%;
+    position: relative;
+}
+
+footer
+{
+    font-family: verdana;
+    font-size: 14px;
+    color:white;
+    position: absolute;
+    text-decoration: none;
+    background-color:#333;
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+    width: 100%;
+    bottom: 0;
+    margin-top: 10px;     
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    flex-direction: column;
+    font-family: Helvetica;
+    font-size: 17px;
+}
+body{
+    background: #2c3e50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3498db, #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3498db, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+li, .roboto{
+    font-family: roboto;
+}
+
+.marg-1{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+  .logo{
+    
+    display:inline-block;
+    vertical-align: bottom;
+    float: left;
+
+ 
+}
+
+.bast{
+    text-align: center;
+    margin: auto;
+    width: 40%;
+}
+.center-important{
+    text-align: center!important;
+    margin: auto;
+}
+.w-50{
+    width:50%; 
+}
+.w-80{
+    width:80%!important ;
+}.w-60{
+    width:60%!important ;
+}.w-90{
+    width:90%!important ;
+}
+
+.f-r{
+    float: right;
+}
+
+
+
+.mues:hover .a, .mues:hover{
+        background-color: #e2e2e2;
+}
+.b{
+  width:50px;
+  height:20px;
+  border:none;
+  font-weight: bold;
+  color: #DAA3A3;
+}
+.cont{font-size: 20px;
+  font-weight: bold;
+  color: #a3bad8;
+}
+.mues{
+    background-color:#F2F2F2;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    width: 16%;
+    background-size:cover;
+    margin: 5px;
+    height: auto;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    vertical-align: top;
+}
+
+
+
+
+
+
+
